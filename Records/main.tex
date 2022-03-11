@@ -1,0 +1,72 @@
+\documentclass[UTF8,oneside,12pt]{book}
+% 各种设置都在下面的文件里
+\input{setting.tex}
+
+% pdf文件设置
+\hypersetup{
+	pdfauthor={},
+	pdftitle={}
+}
+
+% 在这输入你的标题，会加入页眉
+\newcommand\TheTitle{}
+
+% Mac 字体设置
+% \setmainfont{TimesNewRomanPSMT}
+% \setsansfont{Helvetica-Light}
+% \setCJKmainfont[ItalicFont=STKaitiSC-Regular,BoldFont=STSongti-SC-Black]{STSongti-SC-Regular}
+% \setCJKsansfont[BoldFont=STHeitiSC-Medium]{STHeitiSC-Light}
+% \setCJKmonofont{STKaitiSC-Bold}% 加粗楷体
+% \newfontfamily\ktb{STKaitiSC-Bold}
+
+\newtheorem{Definition}{\hspace{2em}定义}[section]
+\newtheorem{Lemma}{\hspace{2em}引理}[section]
+\newtheorem{Theorem}{\hspace{2em}定理}[section]
+\newtheorem*{Proof}{\hspace{0em}证明}
+
+
+\usepackage{enumitem}
+\usepackage{bm}
+
+
+\begin{document}
+% 设置中文
+\input{setc.tex}
+\setlength{\baselineskip}{20pt} % 行间距
+
+%概述「摘要」
+\include{chap/abstract}
+{
+  \hypersetup{colorlinks=true,linkcolor=black}
+  \vspace{100pt}  \tableofcontents
+  \thispagestyle{empty}
+}
+
+%一、引言：介绍报告结构
+\include{chap/introduction}
+
+%二、理论部分
+%% 1. 相关理论
+\include{chap/RelatedTheory}
+%% 2. 隐含二叉树
+\include{chap/ImpliedBinomialTree}
+
+%三、实证分析
+\include{chap/process}
+
+%四、总结
+\include{chap/conclusion}
+
+% 参考文献
+\input{bib.tex}
+
+% 附录-代码
+\include{chap/appendix}
+
+%\nocite{*} %不管是否引用都列出参考文献
+
+\end{document}
+
+
+
+

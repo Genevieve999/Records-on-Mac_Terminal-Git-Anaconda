@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{majmin2005local}
+\bibauthor{MAJMIN L}\@. \bibtitle{Local and stochastic volatility models: An
+  investigation into the pricing of exotic equity options}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{University of the
+  Witwatersrand}\@, \bibyear{2005}\@.
+
+\bibitem{derman1994volatility}
+\bibauthor{DERMAN E\@, KANI I}\@. \bibtitle{The volatility smile and its
+  implied tree}\bibmark{[J]}\@. \bibjournal{Goldman Sachs Quantitative
+  Strategies Research Notes}\@, \bibyear{1994}\@,
+  \bibvolume{2}\thinspace{}\textnormal{:
+  }\bibpages{45\thinspace{}\textnormal{--}\thinspace{}60}\@.
+
+\bibitem{derman1996implied}
+\bibauthor{DERMAN E\@, KANI I\@, GOLDMAN N~C}\@. \bibtitle{Implied trinomial
+  trees of the volatility smile}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Journal of Derivatives}\@. \bibyear{1996}\@.
+
+\bibitem{郭姝辛0美式期权的正则隐含二叉树定价新法}
+\bibauthor{郭姝辛}\@.
+  \bibtitle{美式期权的正则隐含二叉树定价新法}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{西南财经大学}\@, \bibyear{2013}\@.
+
+\end{thebibliography}
