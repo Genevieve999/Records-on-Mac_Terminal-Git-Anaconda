@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.22)  7 JAN 2022 11:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.22)  11 MAR 2022 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1694,15 +1694,7 @@ LaTeX Font Info:    No file TUtxr.fd. on input line 32.
 LaTeX Font Warning: Font shape `TU/txr/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 32.
 
-(./main.aux (./chap/abstract.aux) (./chap/introduction.aux)
-(./chap/RelatedTheory.aux) (./chap/ImpliedBinomialTree.aux
-
-LaTeX Warning: Label `eq4' multiply defined.
-
-
-LaTeX Warning: Label `eq4@cref' multiply defined.
-
-) (./chap/process.aux) (./chap/conclusion.aux) (./chap/appendix.aux))
+(./main.aux (./chap/Mac_Termianl.aux) (./chap/Git.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 32.
@@ -1804,23 +1796,20 @@ LaTeX Info: Redefining \nameref on input line 32.
 Package backref Info: ** backref set up for natbib ** on input line 32.
 \c@lstlisting=\count398
  (./setc.tex)
-\openout2 = `chap/abstract.aux'.
+\openout2 = `chap/Mac_Terminal.aux'.
 
- (./chap/abstract.tex
-
-LaTeX Font Warning: Font shape `TU/txr/b/n' undefined
-(Font)              using `TU/txr/m/n' instead on input line 3.
-
+ (./chap/Mac_Terminal.tex
+第一章
 
 Package fontspec Info: Could not resolve font "PingFang SC/I" (it probably
 (fontspec)             doesn't exist).
 
-LaTeX Font Info:    Trying to load font information for TU+txss on input line 3
+LaTeX Font Info:    Trying to load font information for TU+txss on input line 1
 .
-LaTeX Font Info:    No file TUtxss.fd. on input line 3.
+LaTeX Font Info:    No file TUtxss.fd. on input line 1.
 
-LaTeX Font Warning: Font shape `TU/txss/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 3.
+LaTeX Font Warning: Font shape `TU/txss/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 1.
 
 
 Package fontspec Info: Font family 'PingFangSC(0)' created for font 'PingFang
@@ -1839,308 +1828,53 @@ Package fontspec Info: Font family 'PingFangSC(0)' created for font 'PingFang
 (fontspec)             SC/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
+
+LaTeX Font Warning: Font shape `TU/txss/b/n' undefined
+(Font)              using `TU/txss/m/n' instead on input line 1.
+
 ) [1
 
 
+
 ]
+\openout2 = `chap/Git.aux'.
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 40.
-
-
-LaTeX Font Warning: Font shape `TU/txss/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 41.
-
-(./main.toc
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
+ (./chap/Git.tex
+第二章
 ) [2
 
 
-\FN@pp@footnotehinttrue 
-
-
-])
-\tf@toc=\write8
-\openout8 = `main.toc'.
-
- [3]
-\openout2 = `chap/introduction.aux'.
-
- (./chap/introduction.tex
-第一章
-
-Overfull \hbox (4.78456pt too wide) in paragraph at lines 4--5
-[]\TU/SongtiSCLight(0)/m/n/12 第 三 章 主 要 介 绍 了 隐 含 二 叉 树 的 理 论，|  首 先 对 构 建 隐 含 
-二 叉 树 所 需 要 的 \TU/txss/m/n/12 Arrow-Debreu
- []
-
-) [4
 
 
 ]
-\openout2 = `chap/RelatedTheory.aux'.
 
- (./chap/RelatedTheory.tex
-第二章
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/n' instead on input line 4.
-
-[5
-
-
-
-
-]
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-[6] [7] [8] [9]
-File: fig//OnePeriodBT.png Graphic file (type bmp)
-<fig//OnePeriodBT.png>
- [10] [11] [12] [13]) [14]
-\openout2 = `chap/ImpliedBinomialTree.aux'.
-
- (./chap/ImpliedBinomialTree.tex
-第三章
-File: fig//Tree1.png Graphic file (type bmp)
-<fig//Tree1.png>
-[15
-
-
-
-
-]
-File: fig//ArrowDebreuTree.png Graphic file (type bmp)
-<fig//ArrowDebreuTree.png>
- [16]
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 45.
-
-File: fig//OddCenter.png Graphic file (type bmp)
-<fig//OddCenter.png>
-[17]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 53.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 53.
-
-File: fig//EvenCenter.png Graphic file (type bmp)
-<fig//EvenCenter.png>
-[18]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 63.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 63.
-
-File: fig//OddTree.png Graphic file (type bmp)
-<fig//OddTree.png>
-[19] [20] [21] [22]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 201.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 201.
-
-File: fig//EvenTree.png Graphic file (type bmp)
-<fig//EvenTree.png>
-[23] [24] [25]
-File: fig//ArbitrageExample.png Graphic file (type bmp)
-<fig//ArbitrageExample.png>
-) [26]
-\openout2 = `chap/process.aux'.
-
- (./chap/process.tex
-第四章
-File: fig//ArbitrageExample.png Graphic file (type bmp)
-<fig//ArbitrageExample.png>
-File: fig//ProcessPath.png Graphic file (type bmp)
-<fig//ProcessPath.png>
-[27
-
-
-
-
-] [28]
-File: fig//ImpliedVolatilityCall.png Graphic file (type bmp)
-<fig//ImpliedVolatilityCall.png>
-File: fig//ImpliedVolatilityPut.png Graphic file (type bmp)
-<fig//ImpliedVolatilityPut.png>
-
-Overfull \hbox (2.60799pt too wide) in paragraph at lines 27--37
-[]$[]$ $[]$ 
- []
-
-[29]
-File: fig//Tree1to2.png Graphic file (type bmp)
-<fig//Tree1to2.png>
- [30]
-File: fig//Tree2to3.png Graphic file (type bmp)
-<fig//Tree2to3.png>
- [31] [32]
-
-Package caption Warning: \label without proper reference on input line 6.
+Package caption Warning: Unused \captionsetup[figure] on input line 2.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `ArbFig' on page 33 undefined on input line 199.
+Package caption Warning: Unused \captionsetup[table] on input line 3.
+See the caption package documentation for explanation.
 
-File: fig//12NodesTree.png Graphic file (type bmp)
-<fig//12NodesTree.png>
-[33]
-File: fig//ArrowDeTree.png Graphic file (type bmp)
-<fig//ArrowDeTree.png>
-File: fig//ForwardPriceTree.png Graphic file (type bmp)
-<fig//ForwardPriceTree.png>
- [34]
-File: fig//ProbTree.png Graphic file (type bmp)
-<fig//ProbTree.png>
- [35] [36]) [37]
-\openout2 = `chap/conclusion.aux'.
-
- (./chap/conclusion.tex
-第五章
-) [38
-
-
-
-
-] (./bib.tex (./main.bbl (./main.brf)
-\tf@brf=\write9
-\openout9 = `main.brf'.
-
-)) [39
-
-
-\FN@pp@footnotehinttrue 
-
-
-
-]
-\openout2 = `chap/appendix.aux'.
-
- (./chap/appendix.tex
-(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-
-Package fontspec Warning: Font "STFangsong" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
-(fontspec)             doesn't exist).
-
-LaTeX Font Info:    Trying to load font information for TU+txtt on input line 1
-1.
-LaTeX Font Info:    No file TUtxtt.fd. on input line 11.
-
-LaTeX Font Warning: Font shape `TU/txtt/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 11.
-
-
-Package fontspec Info: Font family 'STFangsong(0)' created for font
-(fontspec)             'STFangsong' with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"STFangsong/OT:language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-[40
-
-
-
-] [41] [42] [43] [44] [45] [46] [47] [48] [49]) [50] (./main.aux
-(./chap/abstract.aux) (./chap/introduction.aux) (./chap/RelatedTheory.aux)
-(./chap/ImpliedBinomialTree.aux) (./chap/process.aux) (./chap/conclusion.aux)
-(./chap/appendix.aux))
+(./main.aux (./chap/Mac_Terminal.aux) (./chap/Git.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 531C1B60F36E519B733E27C006C489CA;2766.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: C47FC69E6786D86860AA1CF6D65A49DC;90
+(rerunfilecheck)             After:  A79933F6A8CB7B1CC9A14FD20B79183A;245.
  ) 
 Here is how much of TeX's memory you used:
- 38337 strings out of 476919
- 755245 string characters out of 5821840
- 1664671 words of memory out of 5000000
- 57500 multiletter control sequences out of 15000+600000
- 443307 words of font info for 188 fonts, out of 8000000 for 9000
+ 37074 strings out of 476919
+ 725873 string characters out of 5821840
+ 1347683 words of memory out of 5000000
+ 56351 multiletter control sequences out of 15000+600000
+ 405375 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,13n,120p,3257b,2042s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 106i,5n,120p,3257b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (50 pages).
+Output written on main.pdf (2 pages).

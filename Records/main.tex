@@ -34,34 +34,18 @@
 \input{setc.tex}
 \setlength{\baselineskip}{20pt} % 行间距
 
-%概述「摘要」
-\include{chap/abstract}
-{
-  \hypersetup{colorlinks=true,linkcolor=black}
-  \vspace{100pt}  \tableofcontents
-  \thispagestyle{empty}
-}
 
-%一、引言：介绍报告结构
-\include{chap/introduction}
 
-%二、理论部分
-%% 1. 相关理论
-\include{chap/RelatedTheory}
-%% 2. 隐含二叉树
-\include{chap/ImpliedBinomialTree}
+%一、Mac Terminal 的Linux语法记录
+\include{chap/Mac_Terminal}
+%二、Git基本语法介绍
+\include{chap/Git}
 
-%三、实证分析
-\include{chap/process}
 
-%四、总结
-\include{chap/conclusion}
 
 % 参考文献
-\input{bib.tex}
+%\input{bib.tex}
 
-% 附录-代码
-\include{chap/appendix}
 
 %\nocite{*} %不管是否引用都列出参考文献
 
